@@ -1,0 +1,501 @@
+NPI,PROVIDER_TYPE,PROVIDER_STATE,PROVIDER_ZIP,PROVIDER_ORGANIZATION,IS_FACILITY
+1708696059,Cardiology,IN,41455,Healthcare Group 61,0
+1490631012,Internal Medicine,PA,81395,Healthcare Group 77,0
+1822174127,Pulmonology,WA,63721,Healthcare Group 1,0
+1267763303,Dermatology,PA,78319,Healthcare Group 11,0
+1273683280,Dermatology,TX,99516,Healthcare Group 53,0
+1959175018,Family Practice,WI,70532,Healthcare Group 42,0
+1219835447,Psychiatry,MO,93206,Healthcare Group 39,0
+1285186882,Internal Medicine,VA,26310,Healthcare Group 5,0
+1601527902,Radiology,NY,27743,Healthcare Group 63,1
+1008882594,Dermatology,IL,73780,Healthcare Group 54,0
+1144225974,Radiology,FL,44510,Healthcare Group 82,0
+1290541859,Pediatrics,FL,79319,Healthcare Group 97,0
+1635631188,Psychiatry,OH,12832,Healthcare Group 74,0
+1856081237,Internal Medicine,AZ,74919,Healthcare Group 52,0
+1811932927,Pulmonology,WI,92142,Healthcare Group 89,1
+1611676151,Cardiology,PA,76277,Healthcare Group 69,1
+1298736038,General Surgery,IN,69551,Healthcare Group 98,0
+1343491142,Psychiatry,FL,41081,Healthcare Group 99,0
+1803820957,Pediatrics,IL,74351,Healthcare Group 16,0
+1953768340,Orthopedics,NY,94122,Healthcare Group 55,1
+1601242434,Family Practice,FL,60298,Healthcare Group 35,1
+1822128258,Internal Medicine,OH,49985,Healthcare Group 27,0
+1816050964,Radiology,TX,76487,Healthcare Group 64,0
+1504544064,Pediatrics,VA,77104,Healthcare Group 29,1
+1230262923,Emergency Medicine,MI,72245,Healthcare Group 58,0
+1269583169,Family Practice,GA,11104,Healthcare Group 78,0
+1980481244,Family Practice,VA,35297,Healthcare Group 66,1
+1937749910,Emergency Medicine,NY,34417,Healthcare Group 70,0
+1143065640,Psychiatry,NC,31870,Healthcare Group 6,1
+1072821248,Pulmonology,PA,40493,Healthcare Group 11,0
+1777562137,Pulmonology,VA,69009,Healthcare Group 60,0
+1288332910,Dermatology,TX,12579,Healthcare Group 8,1
+1531231534,Gastroenterology,MD,45666,Healthcare Group 13,0
+1171327357,Dermatology,VA,41483,Healthcare Group 71,0
+1063884670,General Surgery,TN,90756,Healthcare Group 40,0
+1681065609,Cardiology,IL,46313,Healthcare Group 70,1
+1030237940,General Surgery,MO,72215,Healthcare Group 20,1
+1274619476,General Surgery,AZ,36828,Healthcare Group 24,0
+1083889967,Pediatrics,MI,28894,Healthcare Group 24,0
+1284557399,Gastroenterology,OH,32595,Healthcare Group 54,0
+1572915779,General Surgery,CA,14645,Healthcare Group 25,0
+1564616896,Emergency Medicine,FL,60001,Healthcare Group 28,0
+1012884052,Cardiology,MO,62344,Healthcare Group 58,0
+1182359183,Internal Medicine,IL,14606,Healthcare Group 5,0
+1836909585,Orthopedics,WA,64277,Healthcare Group 93,0
+1613365613,Psychiatry,OH,63643,Healthcare Group 70,0
+1010712073,Psychiatry,MA,72363,Healthcare Group 78,0
+1064352029,Family Practice,TN,41902,Healthcare Group 18,0
+1856782979,General Surgery,NY,13407,Healthcare Group 60,0
+1495509445,Family Practice,OH,14536,Healthcare Group 84,0
+1172064671,Family Practice,FL,36764,Healthcare Group 70,1
+1608136911,Internal Medicine,IN,71946,Healthcare Group 10,0
+1532161763,Cardiology,PA,25722,Healthcare Group 4,1
+1272607826,Psychiatry,NC,63413,Healthcare Group 15,1
+1119141685,General Surgery,PA,81717,Healthcare Group 9,0
+1006752404,Pediatrics,NC,50159,Healthcare Group 32,0
+1155370170,Orthopedics,MI,48421,Healthcare Group 17,0
+1154860087,Family Practice,WA,12018,Healthcare Group 19,0
+1230504270,General Surgery,NC,20784,Healthcare Group 19,1
+1981252270,Pulmonology,NY,86459,Healthcare Group 35,0
+1884003952,Pediatrics,TN,33631,Healthcare Group 49,0
+1223600426,Pulmonology,PA,65137,Healthcare Group 83,0
+1339094404,Family Practice,GA,27111,Healthcare Group 61,0
+1699591841,Pediatrics,WI,49335,Healthcare Group 93,0
+1727059836,Cardiology,NC,55212,Healthcare Group 89,0
+1579874163,Psychiatry,FL,60104,Healthcare Group 5,0
+1114139437,General Surgery,FL,51899,Healthcare Group 69,0
+1903654314,Family Practice,PA,66343,Healthcare Group 70,1
+1813303658,Gastroenterology,MI,89514,Healthcare Group 69,1
+1274125495,Pediatrics,MO,66093,Healthcare Group 66,0
+1136259676,Orthopedics,MA,59724,Healthcare Group 8,1
+1537085539,Radiology,NC,50889,Healthcare Group 59,0
+1548866587,Gastroenterology,GA,67451,Healthcare Group 85,0
+1095102126,General Surgery,FL,84958,Healthcare Group 5,0
+1665409860,General Surgery,IL,21239,Healthcare Group 56,0
+1054064947,Emergency Medicine,MD,79348,Healthcare Group 99,1
+1216466362,Emergency Medicine,WI,91962,Healthcare Group 17,1
+1843341577,Psychiatry,GA,46516,Healthcare Group 70,0
+1469274860,Dermatology,MA,15121,Healthcare Group 65,0
+1240519718,General Surgery,IN,63768,Healthcare Group 41,0
+1201317633,Cardiology,NY,32042,Healthcare Group 9,1
+1213998737,Gastroenterology,TN,99957,Healthcare Group 96,0
+1015617382,Psychiatry,NJ,10195,Healthcare Group 27,1
+1002124225,Internal Medicine,NY,12382,Healthcare Group 71,0
+1267003960,Dermatology,WA,69432,Healthcare Group 31,0
+1657330182,Internal Medicine,NY,77653,Healthcare Group 67,0
+1835526751,General Surgery,TX,25901,Healthcare Group 33,0
+1857190886,Internal Medicine,NY,85975,Healthcare Group 12,0
+1808493840,Gastroenterology,IL,40814,Healthcare Group 18,0
+1216403562,Pediatrics,MD,98244,Healthcare Group 69,1
+1619731210,Gastroenterology,MA,90973,Healthcare Group 6,0
+1581728641,Gastroenterology,NJ,49348,Healthcare Group 70,1
+1088262104,Radiology,AZ,72918,Healthcare Group 34,0
+1043626628,Internal Medicine,NY,88213,Healthcare Group 76,0
+1734758230,Orthopedics,GA,66958,Healthcare Group 16,1
+1776328776,Orthopedics,MA,20811,Healthcare Group 13,0
+1091443036,Psychiatry,TX,96789,Healthcare Group 78,0
+1396618782,Gastroenterology,NC,53217,Healthcare Group 65,0
+1615609589,Dermatology,IL,12381,Healthcare Group 25,0
+1864276116,Pulmonology,NY,18967,Healthcare Group 47,0
+1818877539,Orthopedics,NC,64116,Healthcare Group 53,0
+1345370822,Emergency Medicine,MD,89588,Healthcare Group 77,0
+1624922747,Gastroenterology,NC,63008,Healthcare Group 56,0
+1768921597,Internal Medicine,FL,17675,Healthcare Group 71,0
+1946218422,Pulmonology,NY,28255,Healthcare Group 91,1
+1977373322,Family Practice,IN,29950,Healthcare Group 18,0
+1551193479,Pediatrics,WI,47877,Healthcare Group 1,0
+1956363502,Emergency Medicine,IL,14414,Healthcare Group 68,0
+1952669458,Family Practice,TN,44351,Healthcare Group 89,0
+1145967878,Pediatrics,GA,56990,Healthcare Group 82,1
+1441936923,Dermatology,PA,39133,Healthcare Group 45,1
+1018679727,Internal Medicine,MI,21428,Healthcare Group 21,0
+1828487951,Radiology,IL,82307,Healthcare Group 90,0
+1589432781,Family Practice,AZ,19102,Healthcare Group 81,0
+1678118071,Psychiatry,VA,83985,Healthcare Group 3,0
+1930158453,Emergency Medicine,FL,14155,Healthcare Group 8,0
+1185642492,Orthopedics,CA,44668,Healthcare Group 55,0
+1057748100,Family Practice,IL,83604,Healthcare Group 32,0
+1492075731,Family Practice,NY,21761,Healthcare Group 93,1
+1974286873,Cardiology,OH,26666,Healthcare Group 73,1
+1993458417,Pulmonology,AZ,18997,Healthcare Group 45,0
+1031530503,Pulmonology,NC,79776,Healthcare Group 92,0
+1534464106,Gastroenterology,AZ,67045,Healthcare Group 97,0
+1874988696,Gastroenterology,NC,50901,Healthcare Group 49,1
+1939866900,Dermatology,PA,28917,Healthcare Group 57,0
+1234895006,Pulmonology,MI,60176,Healthcare Group 4,0
+1094610173,Psychiatry,GA,10897,Healthcare Group 47,0
+1798350328,Pulmonology,OH,50517,Healthcare Group 63,1
+1278606992,Orthopedics,VA,83181,Healthcare Group 54,0
+1440054094,Radiology,PA,31388,Healthcare Group 41,1
+1804719299,Pulmonology,IL,70142,Healthcare Group 86,1
+1423313146,Pediatrics,NY,76766,Healthcare Group 51,1
+1755476553,Emergency Medicine,VA,62453,Healthcare Group 20,1
+1296419255,Family Practice,WI,67924,Healthcare Group 53,1
+1474591565,Radiology,NC,91729,Healthcare Group 38,0
+1891065414,Family Practice,PA,85783,Healthcare Group 8,0
+1388271081,Internal Medicine,CA,64104,Healthcare Group 14,1
+1325674553,Radiology,MD,73356,Healthcare Group 39,1
+1134812659,Orthopedics,NJ,45635,Healthcare Group 27,0
+1329894892,Gastroenterology,AZ,59598,Healthcare Group 71,0
+1118608583,Cardiology,TX,54076,Healthcare Group 82,0
+1271418117,General Surgery,VA,31446,Healthcare Group 46,0
+1843590330,Cardiology,NY,62385,Healthcare Group 85,0
+1860099249,Dermatology,TX,26216,Healthcare Group 13,0
+1657622966,Pediatrics,OH,81657,Healthcare Group 71,0
+1157573462,Pediatrics,GA,10330,Healthcare Group 86,0
+1329341319,Orthopedics,NJ,98757,Healthcare Group 76,1
+1537346357,Radiology,PA,18489,Healthcare Group 68,0
+1629949812,Emergency Medicine,MO,13040,Healthcare Group 52,0
+1930044396,Internal Medicine,VA,22889,Healthcare Group 13,1
+1195147039,Family Practice,PA,58636,Healthcare Group 40,0
+1805039950,Dermatology,TX,34443,Healthcare Group 32,1
+1127199606,Gastroenterology,WA,16679,Healthcare Group 40,0
+1566820349,Emergency Medicine,NY,41420,Healthcare Group 64,0
+1766146970,Gastroenterology,IN,60469,Healthcare Group 7,1
+1217578493,Cardiology,CA,36429,Healthcare Group 14,0
+1591372740,General Surgery,WI,89218,Healthcare Group 7,0
+1867140722,Dermatology,CA,11730,Healthcare Group 27,0
+1509859727,Family Practice,GA,24016,Healthcare Group 97,0
+1802663395,Family Practice,MD,71162,Healthcare Group 98,0
+1445539382,Internal Medicine,FL,92620,Healthcare Group 97,0
+1995694597,Cardiology,VA,99619,Healthcare Group 92,0
+1806654824,Internal Medicine,IN,43865,Healthcare Group 13,0
+1305904044,Pulmonology,MA,78666,Healthcare Group 43,1
+1989200228,Internal Medicine,FL,20097,Healthcare Group 27,1
+1365851880,Orthopedics,NJ,79482,Healthcare Group 22,1
+1024302873,Pediatrics,PA,83152,Healthcare Group 68,0
+1898851802,Pediatrics,IN,10453,Healthcare Group 61,0
+1502491849,General Surgery,CA,39713,Healthcare Group 60,0
+1446141624,Family Practice,AZ,13603,Healthcare Group 71,0
+1119258561,General Surgery,TN,30267,Healthcare Group 17,1
+1726757971,General Surgery,MD,93065,Healthcare Group 50,0
+1526573732,Family Practice,MO,35947,Healthcare Group 63,0
+1243401206,Internal Medicine,MA,64948,Healthcare Group 72,1
+1966013625,Internal Medicine,PA,47590,Healthcare Group 71,0
+1776095030,Gastroenterology,MO,58016,Healthcare Group 46,0
+1537409177,Internal Medicine,NY,32245,Healthcare Group 84,0
+1932143813,Dermatology,OH,27688,Healthcare Group 28,1
+1199955363,Cardiology,FL,61210,Healthcare Group 75,0
+1412801950,General Surgery,WA,82284,Healthcare Group 46,1
+1278723623,Emergency Medicine,TN,12611,Healthcare Group 50,1
+1732549899,Pulmonology,VA,18689,Healthcare Group 56,0
+1127124774,Orthopedics,MD,57798,Healthcare Group 90,1
+1942178252,Cardiology,TX,52186,Healthcare Group 8,1
+1900579013,Emergency Medicine,MI,29030,Healthcare Group 50,0
+1515764065,Internal Medicine,OH,35903,Healthcare Group 47,0
+1873349521,Pulmonology,IN,43820,Healthcare Group 21,0
+1227505823,Gastroenterology,FL,91265,Healthcare Group 69,1
+1620501769,Cardiology,MI,81018,Healthcare Group 38,0
+1236642661,Internal Medicine,NY,49508,Healthcare Group 14,1
+1644982771,Family Practice,NY,51470,Healthcare Group 30,0
+1108377056,Psychiatry,TX,59421,Healthcare Group 61,1
+1819963657,Gastroenterology,MO,60873,Healthcare Group 90,0
+1765486796,Orthopedics,GA,97522,Healthcare Group 79,1
+1249830241,Dermatology,MO,21890,Healthcare Group 12,0
+1018335196,Family Practice,NC,75361,Healthcare Group 54,0
+1166932599,Pediatrics,IN,86704,Healthcare Group 55,1
+1131296592,Psychiatry,TN,42346,Healthcare Group 71,0
+1799357837,Family Practice,IL,81566,Healthcare Group 99,0
+1482153143,Pediatrics,NJ,22908,Healthcare Group 18,0
+1399556522,General Surgery,TN,76412,Healthcare Group 13,0
+1278740514,Cardiology,WA,93819,Healthcare Group 6,1
+1871983778,General Surgery,MA,31073,Healthcare Group 30,1
+1020251610,Cardiology,MI,48367,Healthcare Group 56,1
+1904708909,Psychiatry,NC,65423,Healthcare Group 99,0
+1151769571,Internal Medicine,VA,18474,Healthcare Group 57,0
+1494664874,Orthopedics,CA,75541,Healthcare Group 60,0
+1412611145,Dermatology,TN,79672,Healthcare Group 83,1
+1516635640,Pulmonology,CA,38378,Healthcare Group 13,0
+1329526663,Orthopedics,IN,12090,Healthcare Group 100,0
+1474916541,Dermatology,TX,49546,Healthcare Group 65,1
+1757715792,Pediatrics,PA,60242,Healthcare Group 7,0
+1185497838,Psychiatry,NC,61698,Healthcare Group 88,0
+1158377529,Pediatrics,PA,82745,Healthcare Group 67,1
+1049062746,Pediatrics,AZ,66178,Healthcare Group 33,0
+1478158229,Pulmonology,WA,99547,Healthcare Group 27,0
+1072582581,Gastroenterology,OH,54336,Healthcare Group 27,1
+1988751782,Emergency Medicine,TN,64731,Healthcare Group 89,0
+1648263098,Cardiology,OH,79338,Healthcare Group 56,1
+1897536058,Pediatrics,WI,16831,Healthcare Group 53,1
+1745265538,Internal Medicine,NC,77765,Healthcare Group 67,1
+1634926925,Pulmonology,GA,33116,Healthcare Group 8,0
+1837703414,Psychiatry,GA,44040,Healthcare Group 1,0
+1027272337,Pulmonology,IN,89165,Healthcare Group 99,0
+1214764254,General Surgery,AZ,20984,Healthcare Group 42,0
+1482509549,Emergency Medicine,NC,11157,Healthcare Group 41,0
+1704629780,Gastroenterology,NJ,63935,Healthcare Group 58,0
+1508620737,Radiology,WI,70735,Healthcare Group 64,1
+1369648413,Dermatology,PA,67191,Healthcare Group 10,0
+1926268771,Internal Medicine,GA,79070,Healthcare Group 34,0
+1194269615,Pediatrics,OH,62748,Healthcare Group 96,1
+1489026761,Gastroenterology,OH,33627,Healthcare Group 8,1
+1188378546,Pulmonology,IL,73195,Healthcare Group 14,0
+1080542723,Pediatrics,VA,95360,Healthcare Group 63,0
+1129592059,Pediatrics,FL,65434,Healthcare Group 22,0
+1316247032,Cardiology,WI,81197,Healthcare Group 48,0
+1287982781,Radiology,WA,85644,Healthcare Group 71,0
+1402435111,Cardiology,FL,65683,Healthcare Group 75,0
+1627617273,Cardiology,PA,13878,Healthcare Group 24,1
+1610571363,Radiology,NY,22537,Healthcare Group 35,0
+1426834569,Dermatology,TN,20149,Healthcare Group 8,0
+1027136978,Family Practice,MA,70889,Healthcare Group 98,0
+1231968644,Family Practice,WA,35430,Healthcare Group 58,1
+1042238493,Psychiatry,NY,14312,Healthcare Group 38,0
+1224066914,Cardiology,AZ,70140,Healthcare Group 24,0
+1300285831,Emergency Medicine,MD,39343,Healthcare Group 15,1
+1473057996,Cardiology,MD,46521,Healthcare Group 57,0
+1259486864,Radiology,NY,80769,Healthcare Group 29,1
+1034908759,Gastroenterology,WA,52611,Healthcare Group 34,0
+1945941211,Psychiatry,WI,90314,Healthcare Group 71,0
+1750417561,General Surgery,GA,89260,Healthcare Group 29,0
+1752386291,Cardiology,TN,33616,Healthcare Group 70,1
+1171868828,General Surgery,FL,60805,Healthcare Group 29,0
+1051279764,Dermatology,MD,66261,Healthcare Group 8,0
+1462189039,Gastroenterology,AZ,69318,Healthcare Group 51,0
+1884830703,Cardiology,MA,31784,Healthcare Group 71,0
+1382142261,Orthopedics,MD,74127,Healthcare Group 34,0
+1672808571,General Surgery,VA,13066,Healthcare Group 58,1
+1542954188,Radiology,AZ,49498,Healthcare Group 1,0
+1531675831,Psychiatry,AZ,12844,Healthcare Group 22,0
+1010983904,Pulmonology,FL,84061,Healthcare Group 22,0
+1178138015,Cardiology,TX,58680,Healthcare Group 100,1
+1321363492,Orthopedics,WI,14269,Healthcare Group 36,0
+1614633783,Internal Medicine,MD,39513,Healthcare Group 23,1
+1374194628,Orthopedics,GA,37038,Healthcare Group 23,0
+1180144580,Orthopedics,VA,18812,Healthcare Group 6,0
+1401836640,Pulmonology,NJ,55095,Healthcare Group 8,0
+1949978297,Gastroenterology,GA,54255,Healthcare Group 37,0
+1770853764,Pulmonology,CA,39627,Healthcare Group 52,0
+1873123232,Radiology,MO,47334,Healthcare Group 89,1
+1669780425,Orthopedics,GA,35263,Healthcare Group 21,0
+1264451634,Emergency Medicine,PA,87607,Healthcare Group 55,0
+1871712711,Radiology,NY,55458,Healthcare Group 73,1
+1578065892,Pulmonology,GA,26049,Healthcare Group 17,1
+1846817381,Dermatology,NC,21857,Healthcare Group 21,1
+1061774738,Pediatrics,NJ,88439,Healthcare Group 51,0
+1939057852,General Surgery,WI,90581,Healthcare Group 18,1
+1126598884,Cardiology,GA,75065,Healthcare Group 52,0
+1516600942,Pediatrics,MI,87070,Healthcare Group 48,0
+1070401522,Internal Medicine,WA,33888,Healthcare Group 77,1
+1287979376,Pulmonology,TX,84233,Healthcare Group 27,1
+1367109996,General Surgery,FL,86802,Healthcare Group 17,0
+1479252372,Family Practice,GA,23090,Healthcare Group 62,0
+1775829066,Emergency Medicine,IL,65515,Healthcare Group 36,0
+1162290463,Pulmonology,IN,92517,Healthcare Group 52,0
+1110472590,Cardiology,NY,91370,Healthcare Group 55,0
+1868282987,Orthopedics,NY,10591,Healthcare Group 74,0
+1708502926,Gastroenterology,MO,45203,Healthcare Group 41,1
+1290427960,Internal Medicine,OH,31786,Healthcare Group 91,0
+1379925154,Gastroenterology,GA,53498,Healthcare Group 46,0
+1101025305,Dermatology,OH,28294,Healthcare Group 13,0
+1112815329,Dermatology,GA,97318,Healthcare Group 7,0
+1474182214,Pediatrics,MD,70423,Healthcare Group 82,0
+1500511615,General Surgery,IL,59068,Healthcare Group 89,1
+1923385264,Cardiology,IL,22245,Healthcare Group 65,0
+1760419646,Dermatology,NJ,80739,Healthcare Group 15,0
+1790224337,Internal Medicine,MI,81136,Healthcare Group 62,0
+1463235911,Pediatrics,WA,85311,Healthcare Group 26,1
+1945566700,Orthopedics,PA,87189,Healthcare Group 76,1
+1461707241,Psychiatry,FL,56919,Healthcare Group 80,1
+1178165076,Psychiatry,MA,81159,Healthcare Group 86,0
+1465242667,Dermatology,CA,78126,Healthcare Group 43,0
+1843542465,Psychiatry,IN,79521,Healthcare Group 25,1
+1581416027,Cardiology,NJ,67310,Healthcare Group 91,1
+1144929032,Emergency Medicine,PA,12357,Healthcare Group 95,0
+1427240351,Pediatrics,IL,96305,Healthcare Group 75,1
+1389137566,Dermatology,OH,93577,Healthcare Group 41,1
+1086063733,General Surgery,WA,32121,Healthcare Group 72,0
+1197103457,Psychiatry,NY,23931,Healthcare Group 69,0
+1783118674,Pulmonology,WA,32020,Healthcare Group 97,1
+1321989113,Pediatrics,PA,82413,Healthcare Group 53,0
+1816558156,Dermatology,PA,94688,Healthcare Group 2,0
+1182028295,Cardiology,GA,45851,Healthcare Group 12,0
+1615681070,Cardiology,WI,11500,Healthcare Group 2,0
+1703434313,Emergency Medicine,WA,32313,Healthcare Group 89,0
+1144288223,Emergency Medicine,WA,10032,Healthcare Group 34,1
+1957622132,Psychiatry,CA,86115,Healthcare Group 47,0
+1198762013,Family Practice,TN,47360,Healthcare Group 83,0
+1770062349,Orthopedics,WI,19813,Healthcare Group 7,1
+1090626160,General Surgery,GA,42192,Healthcare Group 48,1
+1578471226,General Surgery,PA,27625,Healthcare Group 21,0
+1497872995,Family Practice,TX,87579,Healthcare Group 29,0
+1006215913,Gastroenterology,CA,65033,Healthcare Group 3,1
+1154152993,Pediatrics,TN,96386,Healthcare Group 5,0
+1301707068,Emergency Medicine,FL,99795,Healthcare Group 96,0
+1902526099,Internal Medicine,TN,67137,Healthcare Group 17,0
+1234493013,Gastroenterology,IN,56397,Healthcare Group 2,0
+1349572138,Orthopedics,MA,32736,Healthcare Group 26,0
+1096778194,Pediatrics,AZ,96381,Healthcare Group 19,1
+1722946804,Family Practice,OH,35982,Healthcare Group 53,0
+1690323777,General Surgery,NC,47108,Healthcare Group 92,0
+1467370643,Dermatology,IL,36220,Healthcare Group 92,0
+1374699440,Dermatology,MI,25244,Healthcare Group 96,0
+1191853094,Pediatrics,TN,96309,Healthcare Group 50,0
+1511754789,Emergency Medicine,CA,65311,Healthcare Group 89,0
+1269517639,General Surgery,MI,33600,Healthcare Group 80,1
+1879168483,Dermatology,AZ,19104,Healthcare Group 61,0
+1365266436,Family Practice,IN,82152,Healthcare Group 57,0
+1092924475,Pediatrics,WI,90674,Healthcare Group 73,0
+1321886039,Gastroenterology,PA,15397,Healthcare Group 22,0
+1235356345,Pediatrics,MI,44944,Healthcare Group 99,0
+1825259104,Pediatrics,PA,38707,Healthcare Group 35,0
+1838490142,Psychiatry,OH,75664,Healthcare Group 50,0
+1481718445,General Surgery,NY,31693,Healthcare Group 46,1
+1829691979,Radiology,VA,39542,Healthcare Group 49,1
+1146904500,Emergency Medicine,MO,84425,Healthcare Group 6,0
+1502092931,Cardiology,OH,77596,Healthcare Group 56,1
+1285851996,Family Practice,NY,10421,Healthcare Group 77,0
+1537794127,Psychiatry,NJ,73138,Healthcare Group 95,1
+1187240259,Family Practice,WA,46507,Healthcare Group 31,0
+1633471571,General Surgery,NY,14260,Healthcare Group 75,1
+1512127164,Radiology,TX,44321,Healthcare Group 87,0
+1327195656,Pediatrics,AZ,22302,Healthcare Group 38,0
+1542442371,Radiology,NC,46150,Healthcare Group 28,0
+1425394274,Gastroenterology,WA,20794,Healthcare Group 70,1
+1905423500,Pulmonology,VA,64478,Healthcare Group 33,1
+1911692347,Pediatrics,IL,99055,Healthcare Group 50,1
+1433933602,Radiology,TX,58200,Healthcare Group 85,0
+1745184155,Family Practice,IN,58859,Healthcare Group 67,1
+1613378645,Internal Medicine,CA,29549,Healthcare Group 58,0
+1747085890,Cardiology,MD,24417,Healthcare Group 2,1
+1330782740,Psychiatry,CA,69562,Healthcare Group 84,1
+1603549679,Emergency Medicine,NY,48018,Healthcare Group 31,0
+1808418894,Emergency Medicine,CA,54231,Healthcare Group 5,0
+1266265055,Pediatrics,NC,65680,Healthcare Group 76,0
+1226853761,Internal Medicine,WA,73313,Healthcare Group 83,0
+1226549155,Internal Medicine,WA,71735,Healthcare Group 90,1
+1971482460,Family Practice,MO,27778,Healthcare Group 24,1
+1451647696,Emergency Medicine,TN,85318,Healthcare Group 83,0
+1087276164,General Surgery,NY,77095,Healthcare Group 58,0
+1544458723,Emergency Medicine,NJ,38577,Healthcare Group 65,1
+1726120892,General Surgery,CA,60752,Healthcare Group 61,1
+1614868729,Emergency Medicine,OH,49935,Healthcare Group 88,1
+1747727591,Radiology,WI,76022,Healthcare Group 97,0
+1429287287,Internal Medicine,NJ,93582,Healthcare Group 42,1
+1906068989,Pulmonology,MI,84842,Healthcare Group 18,0
+1126645952,Gastroenterology,MA,17691,Healthcare Group 34,0
+1602406133,Emergency Medicine,TX,81442,Healthcare Group 52,0
+1475433457,Internal Medicine,AZ,61216,Healthcare Group 27,0
+1065704672,Family Practice,WA,31346,Healthcare Group 74,1
+1726027747,Internal Medicine,TN,35120,Healthcare Group 75,0
+1823278321,Radiology,WI,20497,Healthcare Group 87,1
+1876603996,Radiology,PA,74295,Healthcare Group 16,0
+1449553756,Gastroenterology,NJ,36748,Healthcare Group 99,1
+1497840993,Family Practice,MA,10796,Healthcare Group 69,0
+1891698042,Dermatology,WI,44395,Healthcare Group 22,0
+1313464676,Cardiology,NY,37033,Healthcare Group 92,0
+1575055574,Pulmonology,GA,21416,Healthcare Group 87,1
+1350936348,Dermatology,WI,12526,Healthcare Group 15,0
+1832243777,General Surgery,WI,64859,Healthcare Group 58,0
+1408431375,General Surgery,PA,18324,Healthcare Group 79,0
+1578326178,Pediatrics,OH,10261,Healthcare Group 48,0
+1652038503,Radiology,PA,45593,Healthcare Group 30,0
+1550431932,Gastroenterology,NC,96335,Healthcare Group 32,1
+1748800417,Cardiology,TX,71067,Healthcare Group 93,0
+1444835436,Pediatrics,IN,10731,Healthcare Group 50,0
+1688153732,Dermatology,GA,98840,Healthcare Group 15,0
+1692778048,Radiology,MD,16790,Healthcare Group 14,0
+1913662039,Dermatology,MD,96267,Healthcare Group 19,1
+1702279710,Radiology,TX,53066,Healthcare Group 1,0
+1481861290,Internal Medicine,FL,72384,Healthcare Group 7,1
+1167585244,Emergency Medicine,MI,15574,Healthcare Group 58,1
+1218599973,Internal Medicine,IN,92457,Healthcare Group 70,0
+1687862511,Family Practice,MA,30884,Healthcare Group 52,0
+1177816375,General Surgery,AZ,82124,Healthcare Group 23,0
+1827204490,Dermatology,MI,79019,Healthcare Group 42,1
+1032417037,Pulmonology,NY,69984,Healthcare Group 19,0
+1708423806,General Surgery,NJ,84048,Healthcare Group 24,0
+1501358696,Pulmonology,NC,21641,Healthcare Group 10,0
+1002343154,Emergency Medicine,MD,99839,Healthcare Group 15,1
+1949787244,Emergency Medicine,FL,32477,Healthcare Group 61,0
+1142197462,Internal Medicine,MO,14337,Healthcare Group 68,0
+1017977747,Orthopedics,WI,25734,Healthcare Group 59,0
+1813262766,Cardiology,AZ,35509,Healthcare Group 87,1
+1284071934,Dermatology,NC,38618,Healthcare Group 42,1
+1409616605,Pulmonology,PA,94138,Healthcare Group 33,0
+1560408053,Pulmonology,TN,10769,Healthcare Group 11,0
+1790042804,Gastroenterology,MI,96759,Healthcare Group 85,0
+1174275053,Pulmonology,VA,38173,Healthcare Group 53,0
+1628747652,Family Practice,IL,39206,Healthcare Group 59,0
+1009615290,Cardiology,MO,44899,Healthcare Group 73,0
+1883601547,Gastroenterology,CA,42758,Healthcare Group 79,0
+1817165913,Pediatrics,NY,27283,Healthcare Group 97,0
+1403117712,Psychiatry,IL,50414,Healthcare Group 6,0
+1238699132,Gastroenterology,AZ,43533,Healthcare Group 65,1
+1751525130,Radiology,MA,58131,Healthcare Group 100,1
+1729789753,Internal Medicine,GA,62442,Healthcare Group 90,0
+1941866024,Radiology,MO,29250,Healthcare Group 16,0
+1769711410,General Surgery,MA,75327,Healthcare Group 32,0
+1296830806,Gastroenterology,WA,63885,Healthcare Group 20,1
+1136551103,Orthopedics,AZ,15038,Healthcare Group 49,0
+1497778881,General Surgery,WI,79329,Healthcare Group 53,0
+1079124205,Cardiology,VA,86215,Healthcare Group 40,0
+1520337292,Pulmonology,PA,27680,Healthcare Group 96,0
+1275492405,Cardiology,WI,78738,Healthcare Group 50,0
+1441016864,General Surgery,WI,26883,Healthcare Group 2,0
+1427515827,Family Practice,MA,84605,Healthcare Group 75,0
+1203091604,Psychiatry,WA,89989,Healthcare Group 76,1
+1645123334,Pulmonology,IL,87068,Healthcare Group 95,0
+1788143695,Radiology,GA,38224,Healthcare Group 42,1
+1788989626,Pediatrics,WA,82873,Healthcare Group 66,0
+1531966288,Pediatrics,WI,34548,Healthcare Group 48,1
+1465819639,Internal Medicine,MI,25914,Healthcare Group 32,0
+1185399330,Internal Medicine,IN,42960,Healthcare Group 78,1
+1102698732,Psychiatry,OH,89052,Healthcare Group 68,1
+1820806711,General Surgery,TX,30284,Healthcare Group 17,0
+1031493886,Internal Medicine,TX,47957,Healthcare Group 39,0
+1706763027,Gastroenterology,MA,62284,Healthcare Group 19,1
+1777793559,Gastroenterology,TX,49971,Healthcare Group 95,0
+1243555636,Internal Medicine,MI,83927,Healthcare Group 10,0
+1126925707,Internal Medicine,OH,77709,Healthcare Group 74,0
+1163537044,Pulmonology,MO,71613,Healthcare Group 17,0
+1658093743,Radiology,AZ,94466,Healthcare Group 42,1
+1412042451,Dermatology,PA,97441,Healthcare Group 90,0
+1975591849,Internal Medicine,NJ,91406,Healthcare Group 91,0
+1059712073,Radiology,PA,40609,Healthcare Group 44,1
+1033264779,General Surgery,TN,65918,Healthcare Group 55,0
+1859422538,Family Practice,WI,44212,Healthcare Group 72,1
+1430225557,Cardiology,MD,81460,Healthcare Group 5,0
+1920525854,Psychiatry,WA,79985,Healthcare Group 17,1
+1091456029,Pediatrics,VA,42244,Healthcare Group 81,1
+1481648264,General Surgery,AZ,63613,Healthcare Group 13,1
+1462367655,General Surgery,NJ,72952,Healthcare Group 20,1
+1699690318,Gastroenterology,MI,10881,Healthcare Group 40,0
+1330018434,Pediatrics,NC,25796,Healthcare Group 91,0
+1242169920,Family Practice,OH,73197,Healthcare Group 85,0
+1913131762,Emergency Medicine,FL,11668,Healthcare Group 7,0
+1532434303,Orthopedics,PA,19604,Healthcare Group 64,1
+1375392878,Internal Medicine,GA,64924,Healthcare Group 12,1
+1817971316,Pulmonology,PA,15896,Healthcare Group 19,0
+1894776964,General Surgery,MD,88331,Healthcare Group 93,0
+1212897187,Radiology,TN,35346,Healthcare Group 27,0
+1203879206,Dermatology,PA,48525,Healthcare Group 40,0
+1481631141,Dermatology,MO,89814,Healthcare Group 1,1
+1529765212,Emergency Medicine,NY,68186,Healthcare Group 96,1
+1446658128,Cardiology,GA,51315,Healthcare Group 9,1
+1950105811,Internal Medicine,TN,64203,Healthcare Group 42,0
+1812882254,General Surgery,TX,71763,Healthcare Group 81,0
+1986680846,Gastroenterology,MO,56829,Healthcare Group 12,0
+1256508624,Pulmonology,PA,80544,Healthcare Group 76,0
+1287746209,Psychiatry,WA,35242,Healthcare Group 33,0
+1873964702,Family Practice,MO,56401,Healthcare Group 66,0
+1371854753,Radiology,TX,22509,Healthcare Group 42,1
+1485215053,Dermatology,NC,91153,Healthcare Group 51,0
+1267228959,General Surgery,FL,62215,Healthcare Group 7,0
+1881819236,Pediatrics,NY,16629,Healthcare Group 37,0
+1263957901,Internal Medicine,MI,51803,Healthcare Group 40,0
+1296665658,Internal Medicine,GA,89194,Healthcare Group 92,0
+1191352683,Family Practice,MO,13163,Healthcare Group 88,0
+1410833977,Emergency Medicine,PA,15230,Healthcare Group 31,0
+1982837287,Radiology,MO,62342,Healthcare Group 88,1
+1674677118,Gastroenterology,NY,96516,Healthcare Group 57,0
+1013365484,Cardiology,WA,52165,Healthcare Group 21,0
+1362866906,Family Practice,WA,47025,Healthcare Group 89,0
+1644581339,Orthopedics,OH,41028,Healthcare Group 44,1
+1141896216,Orthopedics,CA,34887,Healthcare Group 78,1
+1322102201,Dermatology,NY,75947,Healthcare Group 65,1
+1818284805,Emergency Medicine,TN,15579,Healthcare Group 65,1
+1649741700,Radiology,TN,15578,Healthcare Group 77,0
+1729606364,Gastroenterology,FL,88575,Healthcare Group 90,0
