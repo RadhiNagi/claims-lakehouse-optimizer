@@ -191,6 +191,6 @@ claims-lakehouse-optimizer/
 
 ## 👤 Author
 
-**Radhika** — Data Engineer | Healthcare & Insurance Domain
+**Radhika** — Data Enthusiast
 
 Built with guidance from Anthropic's Claude AI assistant.
