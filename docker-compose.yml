@@ -1,49 +1,47 @@
 # ============================================================
-# Docker Compose: Runs ALL services with ONE command
+# Docker Compose — Claims Lakehouse Predictive Optimizer
 # ============================================================
-# STORY: Think of this as the restaurant floor plan.
-# Each "service" is a separate kitchen station.
-# They all work together but run independently.
-# If one breaks, others keep running.
+# Architecture: 3 services
+#   1. API (FastAPI + PySpark + Delta Lake) — the brain
+#   2. PostgreSQL — operations metadata storage
+#   3. Frontend (Streamlit) — visual dashboard
+#
+# Spark runs in "local mode" inside the API container.
+# This is standard for development & portfolio projects.
+# In production, connect to Databricks/EMR/Dataproc cluster.
 # ============================================================
-
-version: '3.8'
 
 services:
 
   # ============================================
-  # SERVICE 1: FastAPI Backend (The Brain)
+  # SERVICE 1: API + Spark Engine (The Brain)
   # ============================================
-  # WHAT: Your Python API that decides when to OPTIMIZE/VACUUM/ANALYZE
-  # WHY:  This is the "control plane" - the decision maker
   api:
     build:
       context: .
       dockerfile: Dockerfile
     container_name: optimizer-api
     ports:
-      - "8000:8000" # YOUR computer:8000 → Docker:8000
+      - "8000:8000"
     environment:
       - DATABASE_URL=postgresql://optimizer:opt_pass@postgres:5432/optimizer_db
-      - SPARK_MASTER=spark://spark-master:7077
+      - SPARK_MODE=local
     depends_on:
-      - postgres # Wait for database to start first
+      postgres:
+        condition: service_healthy
     volumes:
-      - ./app:/app/app # Live code reload (change code → see results instantly)
-      - ./data:/app/data # YOUR local data folder → Docker's /app/data
+      - ./app:/app/app
+      - ./data:/app/data
       - ./scripts:/app/scripts
     networks:
       - optimizer-network
-    restart: unless-stopped # Auto-restart if it crashes
+    restart: unless-stopped
 
   # ============================================
-  # SERVICE 2: PostgreSQL Database (The Memory)
+  # SERVICE 2: PostgreSQL (The Memory)
   # ============================================
-  # WHAT: Stores table health metrics, operations history, cost data
-  # WHY:  Need a reliable place to track what the optimizer did
-  # NOTE: This is NOT where claims data lives (that's Delta Lake)
   postgres:
-    image: postgres:16-alpine # Alpine = smaller, faster image
+    image: postgres:16-alpine
     container_name: optimizer-postgres
     environment:
       POSTGRES_DB: optimizer_db
@@ -52,60 +50,19 @@ services:
     ports:
       - "5432:5432"
     volumes:
-      - postgres_data:/var/lib/postgresql/data # Data survives restarts!
+      - postgres_data:/var/lib/postgresql/data
     networks:
       - optimizer-network
     restart: unless-stopped
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U optimizer -d optimizer_db" ]
+      interval: 5s
+      timeout: 5s
+      retries: 5
 
   # ============================================
-  # SERVICE 3: Spark Master (The Data Engine)
+  # SERVICE 3: Streamlit Dashboard (The Face)
   # ============================================
-  # WHAT: Apache Spark processes your claims data
-  # WHY:  Spark + Delta Lake = how real healthcare companies process data
-  #       This runs OPTIMIZE, VACUUM, ANALYZE on Delta tables
-  spark-master:
-    image: bitnami/spark:3.5
-    container_name: spark-master
-    environment:
-      - SPARK_MODE=master
-      - SPARK_MASTER_HOST=spark-master
-    ports:
-      - "8080:8080" # Spark Web UI (you can see jobs running!)
-      - "7077:7077" # Spark master port
-    volumes:
-      - ./data:/opt/spark/data
-      - spark_warehouse:/opt/spark/warehouse
-    networks:
-      - optimizer-network
-    restart: unless-stopped
-
-  # ============================================
-  # SERVICE 4: Spark Worker (The Data Muscles)
-  # ============================================
-  # WHAT: Actually does the heavy data processing work
-  # WHY:  Master tells worker WHAT to do, worker DOES it
-  #       In production, you'd have many workers (10, 50, 100!)
-  #       We use 1 for development
-  spark-worker:
-    image: bitnami/spark:3.5
-    container_name: spark-worker
-    environment:
-      - SPARK_MODE=worker
-      - SPARK_MASTER_URL=spark://spark-master:7077
-    depends_on:
-      - spark-master
-    volumes:
-      - ./data:/opt/spark/data
-      - spark_warehouse:/opt/spark/warehouse
-    networks:
-      - optimizer-network
-    restart: unless-stopped
-
-  # ============================================
-  # SERVICE 5: Streamlit Dashboard (The Face)
-  # ============================================
-  # WHAT: Beautiful web dashboard showing table health, operations, costs
-  # WHY:  Non-technical people (managers, analysts) need visuals, not APIs
   frontend:
     build:
       context: ./frontend
@@ -121,22 +78,10 @@ services:
       - optimizer-network
     restart: unless-stopped
 
-# ============================================
-# VOLUMES: Data that survives when containers stop
-# ============================================
-# WHY: Without volumes, all data disappears when you stop Docker!
-#      Volumes are like USB drives plugged into the containers
 volumes:
-  postgres_data: # PostgreSQL database files
-  spark_warehouse:
-    # Spark/Delta warehouse files
+  postgres_data:
 
-    # ============================================
-    # NETWORKS: How containers talk to each other
-    # ============================================
-    # WHY: Containers are isolated by default (security!)
-    #      This network lets them communicate safely
-    #      "postgres" in DATABASE_URL works because of this network
+
 networks:
   optimizer-network:
     driver: bridge
